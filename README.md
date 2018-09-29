@@ -1,8 +1,8 @@
-# IMH Mockups
+# IMH CHAT Mockups
 
-Provisioned by Edith Yew
+Provisioned by Edith Y.
 
-# How to Use
+## How to Use
 
 reference website: https://www.chat.mentalhealth.sg/
 
@@ -13,3 +13,8 @@ reference website: https://www.chat.mentalhealth.sg/
 5. right click on the copied button element and select 'Edit as HTML'
 6. copy the contents of navbar-selector.html into the edit box
 7. mouse over the button element to see changes
+
+## Contents
+
+- navigation bar (for new section and dropdown links)
+- sample page for content
